@@ -1,0 +1,1368 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="InterSection3.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker2116"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#878700;stroke-width:1pt;stroke-opacity:1;fill:#878700;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2114" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker2112"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#878700;stroke-width:1pt;stroke-opacity:1;fill:#878700;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2110" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker2108"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#878700;stroke-width:1pt;stroke-opacity:1;fill:#878700;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2106" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker2104"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#878700;stroke-width:1pt;stroke-opacity:1;fill:#878700;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2102" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker2100"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#878700;stroke-width:1pt;stroke-opacity:1;fill:#878700;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2098" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker2092"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000087;stroke-width:1pt;stroke-opacity:1;fill:#000087;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2090" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker2088"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000087;stroke-width:1pt;stroke-opacity:1;fill:#000087;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2086" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker2084"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000087;stroke-width:1pt;stroke-opacity:1;fill:#000087;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2082" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker2080"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000087;stroke-width:1pt;stroke-opacity:1;fill:#000087;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2078" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker2076"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000087;stroke-width:1pt;stroke-opacity:1;fill:#000087;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2074" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker2068"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#870000;stroke-width:1pt;stroke-opacity:1;fill:#870000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2066" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker2064"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#870000;stroke-width:1pt;stroke-opacity:1;fill:#870000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2062" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker2060"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#870000;stroke-width:1pt;stroke-opacity:1;fill:#870000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2058" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker2056"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#870000;stroke-width:1pt;stroke-opacity:1;fill:#870000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2054" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker2052"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#870000;stroke-width:1pt;stroke-opacity:1;fill:#870000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2050" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker2048"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path2046"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#870000;stroke-width:1pt;stroke-opacity:1;fill:#870000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker2044"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#008700;stroke-width:1pt;stroke-opacity:1;fill:#008700;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2042" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker2040"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#008700;stroke-width:1pt;stroke-opacity:1;fill:#008700;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2038" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker2036"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#008700;stroke-width:1pt;stroke-opacity:1;fill:#008700;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2034" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker2032"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#008700;stroke-width:1pt;stroke-opacity:1;fill:#008700;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2030" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker2028"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#008700;stroke-width:1pt;stroke-opacity:1;fill:#008700;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2026" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path1566"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#008700;stroke-width:1pt;stroke-opacity:1;fill:#008700;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker1845"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#009200;stroke-width:1pt;stroke-opacity:1;fill:#009200;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1843" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker1841"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#009200;stroke-width:1pt;stroke-opacity:1;fill:#009200;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1839" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker1837"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#009200;stroke-width:1pt;stroke-opacity:1;fill:#009200;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1835" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker1833"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#009200;stroke-width:1pt;stroke-opacity:1;fill:#009200;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1831" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker1829"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#009200;stroke-width:1pt;stroke-opacity:1;fill:#009200;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1827" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker5486"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#00a400;stroke-width:1pt;stroke-opacity:1;fill:#00a400;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5484" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker5482"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#00a400;stroke-width:1pt;stroke-opacity:1;fill:#00a400;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5480" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker5478"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#00a400;stroke-width:1pt;stroke-opacity:1;fill:#00a400;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5476" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker5474"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#00a400;stroke-width:1pt;stroke-opacity:1;fill:#00a400;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5472" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker5470"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#00a400;stroke-width:1pt;stroke-opacity:1;fill:#00a400;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5468" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5225"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5223"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1176"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path902"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path899"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker2421"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path2419"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker1877"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1875" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker1807"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1805" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker1743"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1741" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker1685"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1683" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker1633"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1631" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker1587"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1585" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker1547"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1545" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker1513"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1511" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker1485"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1483" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker1463"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1461" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1845-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#009200;fill-opacity:1;fill-rule:evenodd;stroke:#009200;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1843-2" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1829-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#009200;fill-opacity:1;fill-rule:evenodd;stroke:#009200;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1827-8" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1837-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#009200;fill-opacity:1;fill-rule:evenodd;stroke:#009200;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1835-2" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1841-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#009200;fill-opacity:1;fill-rule:evenodd;stroke:#009200;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1839-6" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1833-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#009200;fill-opacity:1;fill-rule:evenodd;stroke:#009200;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1831-6" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.73421252"
+     inkscape:cx="108.2181"
+     inkscape:cy="285.62458"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1058"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-object-midpoints="false"
+     inkscape:object-nodes="false"
+     showguides="false"
+     inkscape:snap-grids="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1091"
+       units="cm"
+       spacingx="5"
+       spacingy="5" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="mark">
+    <g
+       id="g2131"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png">
+      <rect
+         y="136.21147"
+         x="17.83708"
+         height="149.06702"
+         width="150.34109"
+         id="rect2122"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text2126"
+         y="284.00439"
+         x="143.97072"
+         style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:3.88055563px;fill:#ff0000;stroke-width:0.26458332"
+           y="284.00439"
+           x="143.97072"
+           id="tspan2124"
+           sodipodi:role="line">Intersection</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:label="vertexes"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <circle
+       style="opacity:1;fill:#0055d4;fill-opacity:1;stroke:none;stroke-width:0.52335083;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path815-8"
+       cx="-35"
+       cy="165.90652"
+       r="5"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png" />
+    <circle
+       style="opacity:1;fill:#0055d4;fill-opacity:1;stroke:none;stroke-width:0.52335083;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path815-18"
+       cx="-35.022739"
+       cy="244.81305"
+       r="5"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png" />
+    <circle
+       style="opacity:1;fill:#0055d4;fill-opacity:1;stroke:none;stroke-width:0.52335083;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path815-11"
+       cx="230"
+       cy="169.18694"
+       r="5"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png" />
+    <circle
+       style="opacity:1;fill:#0055d4;fill-opacity:1;stroke:none;stroke-width:0.52335083;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path815-7"
+       cx="47.195553"
+       cy="327"
+       r="5"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png" />
+    <g
+       id="g5138"
+       transform="translate(5.9007133)"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png">
+      <circle
+         r="5"
+         cy="327"
+         cx="124.92184"
+         id="path815-81"
+         style="opacity:1;fill:#0055d4;fill-opacity:1;stroke:none;stroke-width:0.52335083;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <circle
+       style="opacity:1;fill:#0055d4;fill-opacity:1;stroke:none;stroke-width:0.52335083;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path815-5"
+       cx="-55.788891"
+       cy="-279.51364"
+       r="5"
+       transform="rotate(166.10209)"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png" />
+    <circle
+       style="opacity:1;fill:#0055d4;fill-opacity:1;stroke:none;stroke-width:0.52335083;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path815-5-9"
+       cx="246.47411"
+       cy="-141.13655"
+       r="5"
+       transform="rotate(90.000003)"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png" />
+    <circle
+       style="opacity:1;fill:#0055d4;fill-opacity:1;stroke:none;stroke-width:0.52335083;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path815-4"
+       cx="230.01035"
+       cy="248.09346"
+       r="5"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png" />
+    <circle
+       style="opacity:1;fill:#0055d4;fill-opacity:1;stroke:none;stroke-width:0.52335083;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path815-5-92"
+       cx="-74.741653"
+       cy="-202.91707"
+       r="5"
+       transform="rotate(166.10209)"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png" />
+    <circle
+       style="opacity:1;fill:#0055d4;fill-opacity:1;stroke:none;stroke-width:0.52335083;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path815-5-9-1-2"
+       cx="-155.23859"
+       cy="-122.4071"
+       r="5"
+       transform="rotate(-166.10211)"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png" />
+    <circle
+       style="opacity:1;fill:#0055d4;fill-opacity:1;stroke:none;stroke-width:0.52335083;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path815-5-9-78"
+       cx="167.56758"
+       cy="-57.595341"
+       r="5"
+       transform="rotate(90.000003)"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png" />
+    <circle
+       style="opacity:1;fill:#0055d4;fill-opacity:1;stroke:none;stroke-width:0.52335083;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path815-5-9-1-1"
+       cx="-74.143028"
+       cy="-142.47305"
+       r="5"
+       transform="rotate(-166.10211)"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png" />
+    <circle
+       style="opacity:1;fill:#0055d4;fill-opacity:1;stroke:none;stroke-width:0.52335083;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path815-5-94"
+       cx="25.306677"
+       cy="-259.44763"
+       r="5"
+       transform="rotate(166.10209)"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png" />
+    <circle
+       style="opacity:1;fill:#0055d4;fill-opacity:1;stroke:none;stroke-width:0.52335083;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path815-5-9-1-5"
+       cx="-93.095757"
+       cy="-219.06961"
+       r="5"
+       transform="rotate(-166.10211)"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="edges1"
+     style="display:inline">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#008700;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker2044)"
+       d="m -30.102132,245.7 62.93309,11.34389"
+       id="path1913"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#path815-18"
+       inkscape:connection-end="#path815-5-94"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#008700;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       d="m 38.428927,262.88467 8.089271,59.16145"
+       id="path1915"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#path815-5-94"
+       inkscape:connection-end="#path815-7"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#008700;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker2028)"
+       d="m 42.751512,257.93084 73.541358,3e-5"
+       id="path1963"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#path815-5-94"
+       inkscape:connection-end="#path815-5"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#008700;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2032)"
+       d="m 126.27237,257.48029 c 33.38679,5.9004 66.02401,-2.44107 98.75841,-8.93625"
+       id="path1965"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#path815-5"
+       inkscape:connection-end="#path815-4"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="edges2"
+     style="display:inline">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#870000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2068)"
+       d="m 131.45776,322.0406 9.04356,-70.60709"
+       id="path1982"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g5138"
+       inkscape:connection-end="#path815-5-9"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#870000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2048)"
+       d="m 146.13561,246.5652 78.87566,1.43717"
+       id="path1984"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#path815-5-9"
+       inkscape:connection-end="#path815-4"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#870000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2052)"
+       d="m 140.06411,241.59057 c 2.18058,-34.11346 -6.74551,-63.4172 -17.6989,-80.59624"
+       id="path1986"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#path815-5-9"
+       inkscape:connection-end="#path815-5-9-1-2"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#870000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2060)"
+       d="m 116.29285,156.11078 c -23.49643,-3.73026 -48.006376,-3.74431 -73.541332,0"
+       id="path1990"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#path815-5-9-1-2"
+       inkscape:connection-end="#path815-5-9-1-1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#870000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2064)"
+       d="m 32.796385,156.77799 c -33.1821987,-3.0998 -50.595854,1.43035 -62.841134,8.46133"
+       id="path1992"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#path815-5-9-1-1"
+       inkscape:connection-end="#path815-8"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="edges3"
+     style="display:inline">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000087;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2092)"
+       d="m 225.02043,169.63756 c -28.83745,9.88092 -53.20893,27.31963 -98.74807,8.93614"
+       id="path1995"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#path815-11"
+       inkscape:connection-end="#path815-5-92"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000087;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2076)"
+       d="M 116.37183,178.13923 62.516274,168.45267"
+       id="path1999"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#path815-5-92"
+       inkscape:connection-end="#path815-5-9-78"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000087;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2080)"
+       d="M 52.59623,167.47791 -30.000898,165.9962"
+       id="path2001"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#path815-5-9-78"
+       inkscape:connection-end="#path815-8"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000087;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2084)"
+       d="m 56.184157,172.36423 c 1.783871,24.67158 -6.718043,41.91453 -17.021409,57.85644"
+       id="path2003"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#path815-5-9-78"
+       inkscape:connection-end="#path815-5-9-1-5"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000087;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2088)"
+       d="m 38.262244,239.99112 c 15.922789,27.34504 7.915198,54.69007 8.422646,82.03511"
+       id="path2005"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#path815-5-9-1-5"
+       inkscape:connection-end="#path815-7"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="edges4"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="writing">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-31.332178"
+       y="174.93747"
+       id="text819"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png"><tspan
+         sodipodi:role="line"
+         id="tspan817"
+         x="-31.332178"
+         y="174.93747"
+         style="font-size:4.23333311px;stroke-width:0.26458332">Node 2</tspan><tspan
+         sodipodi:role="line"
+         x="-31.332178"
+         y="183.75691"
+         style="font-size:4.23333311px;stroke-width:0.26458332"
+         id="tspan1344" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-31.354916"
+       y="253.84402"
+       id="text819-6"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png"><tspan
+         sodipodi:role="line"
+         id="tspan817-49"
+         x="-31.354916"
+         y="253.84402"
+         style="font-size:4.23333311px;stroke-width:0.26458332">Node 6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="209.30385"
+       y="164.93748"
+       id="text819-5"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png"><tspan
+         sodipodi:role="line"
+         id="tspan817-3"
+         x="209.30385"
+         y="164.93748"
+         style="font-size:4.23333311px;stroke-width:0.26458332">Node 5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="50.86338"
+       y="322.75052"
+       id="text819-49"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png"><tspan
+         sodipodi:role="line"
+         id="tspan817-35"
+         x="50.86338"
+         y="322.75052"
+         style="font-size:4.23333311px;stroke-width:0.26458332">Node 10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="134.49037"
+       y="322.75052"
+       id="text819-93"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png"><tspan
+         sodipodi:role="line"
+         id="tspan817-2"
+         x="134.49037"
+         y="322.75052"
+         style="font-size:4.23333311px;stroke-width:0.26458332">Node 11</tspan><tspan
+         sodipodi:role="line"
+         x="134.49037"
+         y="331.56998"
+         style="font-size:4.23333311px;stroke-width:0.26458332"
+         id="tspan895" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="120.99664"
+       y="267.78177"
+       id="text819-4-7"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png"><tspan
+         sodipodi:role="line"
+         id="tspan817-4-9"
+         x="120.99664"
+         y="267.78177"
+         style="font-size:4.23333311px;stroke-width:0.26458332">Node 8<tspan
+   style="font-size:2.75166631px;baseline-shift:sub;stroke-width:0.26458332"
+   id="tspan4770">0</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="144.80438"
+       y="255.50508"
+       id="text819-4-8-2"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png"><tspan
+         sodipodi:role="line"
+         id="tspan817-4-7-2"
+         x="144.80438"
+         y="255.50508"
+         style="font-size:4.23333311px;stroke-width:0.26458332">Node 8<tspan
+   style="font-size:2.75166631px;baseline-shift:sub;stroke-width:0.26458332"
+   id="tspan2596-5">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="209.29353"
+       y="243.84402"
+       id="text819-2-5"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png"><tspan
+         sodipodi:role="line"
+         id="tspan817-0-3"
+         x="209.29353"
+         y="243.84402"
+         style="font-size:4.23333311px;stroke-width:0.26458332">Node 9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="124.96062"
+       y="151.03709"
+       id="text819-4-7-4"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png"><tspan
+         sodipodi:role="line"
+         id="tspan817-4-9-8"
+         x="124.96062"
+         y="151.03709"
+         style="font-size:4.23333311px;stroke-width:0.26458332">Node 4<tspan
+   style="font-size:2.75166631px;baseline-shift:sub;stroke-width:0.26458332"
+   id="tspan4770-8">0</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="100.84006"
+       y="187.76984"
+       id="text819-4-8-2-4"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png"><tspan
+         sodipodi:role="line"
+         id="tspan817-4-7-2-0"
+         x="100.84006"
+         y="187.76984"
+         style="font-size:4.23333311px;stroke-width:0.26458332">Node 4<tspan
+   style="font-size:2.75166631px;baseline-shift:sub;stroke-width:0.26458332"
+   id="tspan2596-5-7">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="41.419411"
+       y="151.03708"
+       id="text819-4-7-3"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png"><tspan
+         sodipodi:role="line"
+         id="tspan817-4-9-6"
+         x="41.419411"
+         y="151.03708"
+         style="font-size:4.23333311px;stroke-width:0.26458332">Node 3<tspan
+   style="font-size:2.75166631px;baseline-shift:sub;stroke-width:0.26458332"
+   id="tspan4770-0">0</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="61.263153"
+       y="162.53555"
+       id="text819-4-8-2-5"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png"><tspan
+         sodipodi:role="line"
+         id="tspan817-4-7-2-7"
+         x="61.263153"
+         y="162.53555"
+         style="font-size:4.23333311px;stroke-width:0.26458332">Node 3<tspan
+   style="font-size:2.75166631px;baseline-shift:sub;stroke-width:0.26458332"
+   id="tspan2596-5-6">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="41.419403"
+       y="229.9436"
+       id="text819-4-7-37"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png"><tspan
+         sodipodi:role="line"
+         id="tspan817-4-9-7"
+         x="41.419403"
+         y="229.9436"
+         style="font-size:4.23333311px;stroke-width:0.26458332">Node 7<tspan
+   style="font-size:2.75166631px;baseline-shift:sub;stroke-width:0.26458332"
+   id="tspan4770-9">0</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="41.419403"
+       y="266.96185"
+       id="text819-4-8-8-6-7"
+       inkscape:export-xdpi="50.009998"
+       inkscape:export-ydpi="50.009998"
+       inkscape:export-filename="C:\Users\aki5clj\Intersection_3R_1.png"><tspan
+         sodipodi:role="line"
+         id="tspan817-4-7-8-2-0"
+         x="41.419403"
+         y="266.96185"
+         style="font-size:4.23333311px;stroke-width:0.26458332">Node 7<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan2133">1</tspan></tspan></text>
+  </g>
+</svg>
