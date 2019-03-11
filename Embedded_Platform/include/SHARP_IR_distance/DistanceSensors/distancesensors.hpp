@@ -21,7 +21,10 @@
 using namespace std;
 
 /**
- * @brief It is used for reading the attached distance sensors.
+ * @brief It is used for reading the attached distance sensors. It's periodically read all attached sensors measurements, 
+ * in one cycle it active and read sequentially all sensors in order to avoid the interference between the sensors. 
+ * In the function run it starts the activate the first sensors and the function ReadCallback capture the measurement 
+ * and active the next sensor. 
  * 
  */
 template<class T>
