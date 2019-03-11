@@ -248,7 +248,7 @@ void CMotionController::_run()
             if(m_ispidActivated && m_control!=NULL)
             {
                 m_control->setRef(CMotionController::Mps2Rps( m_speed ));
-                m_serialPort.printf("%f",CMotionController::Mps2Rps( m_speed ));
+                // m_serialPort.printf("%f",CMotionController::Mps2Rps( m_speed ));
                 // Calculate control signal
                 bool l_isCorrect = m_control->control(); 
                 // Check the correct working of the control method
