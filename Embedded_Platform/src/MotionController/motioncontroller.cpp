@@ -210,7 +210,7 @@ void CMotionController::_run()
             if(m_ispidActivated)
             {
                 m_speed=motion.first*l_dir;
-                m_angle=motion.second;
+                m_angle=-motion.second;
             }
             else
             {
