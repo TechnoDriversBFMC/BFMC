@@ -342,8 +342,11 @@ void CMotionController::serialCallbackBrake(char const * a, char * b)
     if(1 == l_res)
     {
         m_speed = 0;
-        m_angle = l_angle; 
+        m_angle = l_angle;
+        // Brake state 
         m_state = 2;
+        // Deactivate Spline (Bezier) planner 
+        m_isSplineActivated=false;
         if( m_control!=NULL){
             m_control->setRef(0);
         }
@@ -375,6 +378,8 @@ void CMotionController::serialCallbackHardBrake(char const * a, char * b)
         m_car.Inverse(l_brake);
         m_hbTimeOut.attach(callback(this,&CMotionController::BrakeCallback),0.04);
         m_state = 0;
+        // Deactivate Spline (Bezier) planner 
+        m_isSplineActivated=false;
         sprintf(b,"ack;;");           
     }
     else
@@ -402,6 +407,8 @@ void CMotionController::serialCallbackPID(char const * a, char * b)
         }else{
             m_ispidActivated=(l_isActivate>=1);
             m_state = 2;
+            // Deactivate Spline (Bezier) planner 
+            m_isSplineActivated=false;
             sprintf(b,"ack;;");
         }
         
