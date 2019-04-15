@@ -242,7 +242,7 @@ void CMotionController::_run()
 
     switch(m_state)
     {
-        // Move
+        // Move state
         case 1:
             m_car.Steer(m_angle);
             if(m_ispidActivated && m_control!=NULL)
@@ -250,21 +250,37 @@ void CMotionController::_run()
                 m_control->setRef(CMotionController::Mps2Rps( m_speed ));
                 // m_serialPort.printf("%f",CMotionController::Mps2Rps( m_speed ));
                 // Calculate control signal
-                bool l_isCorrect = m_control->control(); 
-                // Check the correct working of the control method
-                if( !l_isCorrect ){
+                int8_t l_isCorrect = m_control->control(); 
+                // Check the state of the control method
+                if( l_isCorrect == -1 )
+                {
+                    // In this case the encoder is working fine and measure too high speed, than it changes to the braking state.  
+                    m_serialPort.printf("@PIDA:Too high speed and the encoder working;;\r\n");
                     m_car.Brake();
                     m_control->clear();
                     m_state = 2;
                 }
-                m_car.Speed(m_control->get()*100.0);//Y
+                else if (l_isCorrect == -2 )
+                {
+                    // In this case the encoder fails and measures 0 rps, but the control signal had high values. 
+                    // This part protects the robot to run with high speed, when the encoder doesn't measure correctly.
+                    m_serialPort.printf("@PIDA:Encoder error;;\r\n");
+                    m_car.Brake();
+                    m_control->clear();
+                    m_state = 2;
+                }
+                else
+                {
+                    m_car.Speed(m_control->get()*100.0);//Y
+                }
+                
             }
             else
             {
                 m_car.Speed(m_speed);
             }
             break;
-        // Brake
+        // Brake state
         case 2:
             m_car.Steer(m_angle);
             m_car.Brake();

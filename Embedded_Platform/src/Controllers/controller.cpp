@@ -25,6 +25,8 @@ namespace controllers{
         :m_encoder(f_encoder)
         ,m_pid(f_pid)
         ,m_converter(f_converter)
+        ,m_nrHighPwm(0)
+        ,m_maxNrHighPwm(10)
         ,m_control_sup(0.5)
         ,m_control_inf(-0.5)
         ,m_ref_abs_inf(10.0)
@@ -82,7 +84,7 @@ namespace controllers{
      * @return true control works fine
      * @return false appeared an error
      */
-    bool CControllerSiso::control()
+    int8_t CControllerSiso::control()
     {
         // Mesurment speed value
         float  l_MesRps = m_encoder.getSpeedRps();
@@ -94,15 +96,14 @@ namespace controllers{
         if(std::abs(l_MesRps) > m_mes_abs_sup){
             m_RefRps = 0.0;
             m_u = 0.0;
-            error("@PIDA:CControllerSiso: To high speed!;;\r\n");
-            return false;
+            return -1;
         }
         // Check the inferior limits of reference signal and measured signal for standing state.
         // Inactivate the controller
         if(std::abs(m_RefRps) < m_ref_abs_inf && std::abs(l_MesRps) < m_mes_abs_inf ){
             m_u = 0.0;
             m_error = 0.0;
-            return true; 
+            return 1; 
         }
 
         // Check measured value is oriantated or absolute
@@ -115,6 +116,17 @@ namespace controllers{
         float l_v_control = m_pid.calculateControl(l_error);
         float l_pwm_control = converter(l_v_control);
         
+
+        // Verify the number of high control signal and the measued rotation speed. When it's true, than the encoder doesn't measure the correct rotation speed,
+        // so the calculated control signal has a too high value. 
+        if(m_nrHighPwm>m_maxNrHighPwm && l_MesRps==0){
+            m_pid.clear();
+            m_RefRps = 0.0;
+            m_u = 0.0;
+            m_nrHighPwm = 0;
+            return -2;
+        }
+
         m_u=l_pwm_control;
         m_error=l_error;
         
@@ -123,7 +135,7 @@ namespace controllers{
         {
             m_u=m_u*-1.0;
         }
-        return true;
+        return 1;
     }
 
     /** @brief  
@@ -144,9 +156,15 @@ namespace controllers{
         // Check the pwm control signal and limits
         if( l_pwm < m_control_inf ){
             l_pwm  = m_control_inf;
+            ++m_nrHighPwm;
         } else if( l_pwm > m_control_sup ){
             l_pwm  = m_control_sup;
+            ++m_nrHighPwm;
         }
+        else{
+            m_nrHighPwm = 0;
+        }
+
         return l_pwm;
     }
 

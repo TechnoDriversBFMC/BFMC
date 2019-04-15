@@ -50,7 +50,7 @@ namespace controllers
             /* Clear PID parameters */
             void clear();
             /* Control action */
-            bool control();
+            int8_t control();
 
         private:
             /* PWM onverter */
@@ -68,6 +68,11 @@ namespace controllers
             double                                  m_error;
             /* Converter */
             controllers::IConverter*                m_converter;
+            uint8_t                                 m_nrHighPwm;
+            /* Maximum High PWM Signal */
+            const uint8_t                           m_maxNrHighPwm;
+
+
             /* Scaled PWM control signal limits */
             const float                                     m_control_sup;
             const float                                     m_control_inf;
