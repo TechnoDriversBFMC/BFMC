@@ -410,6 +410,7 @@ void CMotionController::serialCallbackPID(char const * a, char * b)
             m_state = 2;
             // Deactivate Spline (Bezier) planner 
             m_isSplineActivated=false;
+            sprintf(b,"ack;;");    
         }
         
     }else
