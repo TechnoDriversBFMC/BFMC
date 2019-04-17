@@ -248,7 +248,6 @@ void CMotionController::_run()
             if(m_ispidActivated && m_control!=NULL)
             {
                 m_control->setRef(CMotionController::Mps2Rps( m_speed ));
-                // m_serialPort.printf("%f",CMotionController::Mps2Rps( m_speed ));
                 // Calculate control signal
                 int8_t l_isCorrect = m_control->control(); 
                 // Check the state of the control method
@@ -405,11 +404,12 @@ void CMotionController::serialCallbackPID(char const * a, char * b)
         if(m_control==NULL){
             sprintf(b,"Control object wans't instances. Cannot be activate pid controller;;");
         }else{
+            m_speed = 0;
             m_ispidActivated=(l_isActivate>=1);
+            // Change to brake state
             m_state = 2;
             // Deactivate Spline (Bezier) planner 
             m_isSplineActivated=false;
-            sprintf(b,"ack;;");
         }
         
     }else
